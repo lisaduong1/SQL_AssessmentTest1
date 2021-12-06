@@ -15,4 +15,4 @@ https://www.udemy.com/course/the-complete-sql-bootcamp/
 
 3. What customer has the highest customer ID number whose name starts with an 'E' and has an address ID lower than 500?
 
-   The answer is Eddie Tomlin
+   The answer is Eddie Tomlin.
